@@ -15,7 +15,7 @@ const crearUsuarios = (req, res) => {
 
 const generarDataMock = async (req, res) => {
     try {
-        const {users = 0, pets = 0} = req.body;
+        const {users = 0, pets = 0} = req.query;
          const usuariosMock = generarUsersMocking(Number(users));
          const mascotasMock = generarMascotasMocking(Number(pets));
 
