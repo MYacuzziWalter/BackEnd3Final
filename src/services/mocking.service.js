@@ -3,6 +3,7 @@ import bcrypt from "bcrypt";
 
 export function generarMascotasMocking(cantidad) {
   try {
+    cantidad = Number(cantidad);
     // Validamos que el numero sea un entero positivo
     if (
       isNaN(cantidad) ||
@@ -31,6 +32,7 @@ export function generarMascotasMocking(cantidad) {
 
 export function generarUsersMocking(cantidad) {
   try {
+    cantidad = Number(cantidad);
     if (
       isNaN(cantidad) ||
       cantidad <= 0 ||
