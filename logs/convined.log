@@ -1,0 +1,24 @@
+[2025-07-15T00:12:25.837Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:12:28.687Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:17:03.901Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:17:06.748Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:23:09.693Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:28:58.550Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:29:00.951Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:29:09.339Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:31:17.292Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:19.926Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:36.295Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:36.472Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T00:31:40.300Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:32:07.727Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:32:11.201Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T01:40:01.306Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T01:40:03.739Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T01:40:07.193Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T01:40:10.712Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T01:40:40.372Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T00:48:52.795Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T00:49:11.912Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-16T00:49:16.231Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-16T00:50:02.821Z] [35mhttp[39m: [35m[GET] /api/pets[39m

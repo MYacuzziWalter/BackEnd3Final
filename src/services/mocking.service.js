@@ -1,5 +1,6 @@
 import { faker } from "@faker-js/faker";
 import bcrypt from "bcrypt";
+import logger from "../logger.js";
 
 export function generarMascotasMocking(cantidad) {
   try {
@@ -10,6 +11,7 @@ export function generarMascotasMocking(cantidad) {
       cantidad <= 0 ||
       !Number.isInteger(Number(cantidad))
     ) {
+      logger.warn(`Cantidad inválida recibida ${cantidad}`)
       throw new Error("La cantidad debe ser un número entero positivo");
     }
 
@@ -26,6 +28,7 @@ export function generarMascotasMocking(cantidad) {
 
     return mascotas;
   } catch (error) {
+    logger.error(`Error al generar mascotas ${error.message}`);
     throw new Error(`Error al generar mascotas: ${error.message}`);
   }
 }
