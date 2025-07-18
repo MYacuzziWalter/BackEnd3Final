@@ -18,6 +18,7 @@
 [2025-07-15T01:40:07.193Z] [35mhttp[39m: [35m[GET] /api/pets[39m
 [2025-07-15T01:40:10.712Z] [35mhttp[39m: [35m[GET] /api/users[39m
 [2025-07-15T01:40:40.372Z] [32minfo[39m: [32mListening on 8081[39m
+<<<<<<< HEAD
 [2025-07-16T23:49:36.137Z] [32minfo[39m: [32mListening on 8081[39m
 [2025-07-16T23:49:39.654Z] [32minfo[39m: [32mListening on 8081[39m
 [2025-07-16T23:49:44.000Z] [35mhttp[39m: [35m[GET] /api/pets[39m
@@ -90,3 +91,9 @@
 [2025-07-18T00:07:07.257Z] [35mhttp[39m: [35m[GET] /api/users[39m
 [2025-07-18T00:17:02.472Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m
 [2025-07-18T00:18:05.357Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m
+=======
+[2025-07-16T00:48:52.795Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T00:49:11.912Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-16T00:49:16.231Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-16T00:50:02.821Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+>>>>>>> 32de6f4b3b3bd0a33db9c3cf6db5c81960cd826c

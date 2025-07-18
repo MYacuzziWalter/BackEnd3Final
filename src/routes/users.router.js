@@ -7,6 +7,11 @@ router.use((req, res, next) => {
     logger.http(`[${req.method}] ${req.originalUrl}`);
     next();
 });
+<<<<<<< HEAD
+=======
+
+router.get('/',usersController.getAllUsers);
+>>>>>>> 32de6f4b3b3bd0a33db9c3cf6db5c81960cd826c
 
 /**
  * @swagger

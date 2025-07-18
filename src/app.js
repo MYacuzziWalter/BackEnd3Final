@@ -8,7 +8,10 @@ import adoptionsRouter from './routes/adoption.router.js';
 import sessionsRouter from './routes/sessions.router.js';
 import mockRouter from "./routes/mocks.router.js";
 import logger from './logger.js';
+<<<<<<< HEAD
 import { setupSwagger } from './swagger.js';
+=======
+>>>>>>> 32de6f4b3b3bd0a33db9c3cf6db5c81960cd826c
 
 dotenv.config();
 const app = express();
@@ -27,6 +30,10 @@ app.use('/api/adoptions',adoptionsRouter);
 app.use('/api/sessions',sessionsRouter);
 app.use("/api/mocks", mockRouter);
 
+<<<<<<< HEAD
 
 setupSwagger(app)
 export default app;
+=======
+app.listen(PORT,()=>logger.info(`Listening on ${PORT}`))
+>>>>>>> 32de6f4b3b3bd0a33db9c3cf6db5c81960cd826c
