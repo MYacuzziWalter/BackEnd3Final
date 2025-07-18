@@ -1,0 +1,92 @@
+[2025-07-15T00:12:25.837Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:12:28.687Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:17:03.901Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:17:06.748Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:23:09.693Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:28:58.550Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:29:00.951Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:29:09.339Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:31:17.292Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:19.926Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:36.295Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T00:31:36.472Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T00:31:40.300Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:32:07.727Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T00:32:11.201Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T01:40:01.306Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T01:40:03.739Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-15T01:40:07.193Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-15T01:40:10.712Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-15T01:40:40.372Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:49:36.137Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:49:39.654Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:49:44.000Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-16T23:52:03.224Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:52:07.114Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:55:47.030Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:55:50.904Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:58:43.865Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-16T23:59:51.166Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:00:24.333Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:06:17.146Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:06:20.807Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:08:52.463Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T00:09:01.513Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:11:49.188Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:11:52.307Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:12:12.838Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:12:39.017Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T00:13:19.509Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:13:26.804Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T00:15:26.151Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:15:29.287Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:16:18.482Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:16:32.580Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T00:17:10.400Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T00:17:16.857Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T00:17:18.892Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T01:43:44.608Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:43:47.738Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:45:26.087Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:45:30.633Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:45:50.345Z] [35mhttp[39m: [35m[GET] /api/users/1[39m
+[2025-07-17T01:46:31.818Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:46:34.558Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-17T01:46:47.592Z] [35mhttp[39m: [35m[GET] /api/users/6871b1624df1cd56ebacb393[39m
+[2025-07-17T01:48:46.760Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T01:48:52.605Z] [32minfo[39m: [32mListening on 8081[39m
+[2025-07-17T02:26:37.188Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m
+[2025-07-17T02:26:41.758Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-18T00:03:47.371Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m
+[2025-07-18T00:03:53.243Z] [32minfo[39m: [32mUsuarios Insertados: {[39m
+[32m  first_name: 'Arlo',[39m
+[32m  last_name: 'Prosacco',[39m
+[32m  email: 'Willie_Corkery@gmail.com',[39m
+[32m  password: '$2b$10$icQaV.Y0pcYoYWBgklKME.Rdsab1OfUz5AVMi55ZSn0Syj1ABWkxy',[39m
+[32m  role: 'admin',[39m
+[32m  pets: [],[39m
+[32m  _id: new ObjectId("68798f6915ee946d8788059e"),[39m
+[32m  __v: 0[39m
+[32m},{[39m
+[32m  first_name: 'Trisha',[39m
+[32m  last_name: 'Bergstrom',[39m
+[32m  email: 'Meta_Yundt46@yahoo.com',[39m
+[32m  password: '$2b$10$MvJ/krqdHv2d6BRPFcwq.uDFthHJEuwtojudqTeQFZ30cluMQ0F72',[39m
+[32m  role: 'user',[39m
+[32m  pets: [],[39m
+[32m  _id: new ObjectId("68798f6915ee946d8788059f"),[39m
+[32m  __v: 0[39m
+[32m}[39m
+[2025-07-18T00:03:53.245Z] [32minfo[39m: [32mMascotas insertadas: {[39m
+[32m  name: 'monkey',[39m
+[32m  specie: 'tiger',[39m
+[32m  birthDate: 2024-01-09T20:14:40.079Z,[39m
+[32m  adopted: false,[39m
+[32m  _id: new ObjectId("68798f6915ee946d878805a1"),[39m
+[32m  __v: 0[39m
+[32m}[39m
+[2025-07-18T00:04:23.312Z] [35mhttp[39m: [35m[GET] /api/pets[39m
+[2025-07-18T00:05:34.689Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-18T00:07:07.257Z] [35mhttp[39m: [35m[GET] /api/users[39m
+[2025-07-18T00:17:02.472Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m
+[2025-07-18T00:18:05.357Z] [32minfo[39m: [32mServidor escuchando en el puerto 8081[39m

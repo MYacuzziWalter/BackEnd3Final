@@ -4,6 +4,7 @@ import {
   generarMascotasMocking,
   generarUsersMocking,
 } from "../services/mocking.service.js";
+import logger from "../logger.js";
 
 const crearMascota = (req, res) => {
     try {
@@ -20,6 +21,7 @@ const crearMascota = (req, res) => {
         res.send({ status: "Exitoso", payload: mascotas });
         
     } catch (error) {
+        logger.fatal(`Error generando mascota Mock ${error.message}`);
         res.status(500).send({ status: "Error", message: error.message});
     }   
   
@@ -41,6 +43,7 @@ const crearUsuarios = (req, res) => {
         res.send({ status: "Exitoso", payload: usuarios });
 
     } catch (error) {
+        logger.fatal(`Error generando usuario Mock ${error.message}`);
         res.status(500).send({ status: "Error", message: error.message});
     }
   
@@ -68,6 +71,9 @@ const generarDataMock = async (req, res) => {
     const usuariosInsertados = await userModel.insertMany(usuariosMock);
     const mascotasInsertadas = await petModel.insertMany(mascotasMock);
 
+
+    logger.info(`Usuarios Insertados: ${usuariosInsertados}`);
+    logger.info(`Mascotas insertadas: ${mascotasInsertadas}`);
     res.send({
       status: "success",
       users: usuariosInsertados.length,

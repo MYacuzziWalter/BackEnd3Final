@@ -7,11 +7,12 @@ import petsRouter from './routes/pets.router.js';
 import adoptionsRouter from './routes/adoption.router.js';
 import sessionsRouter from './routes/sessions.router.js';
 import mockRouter from "./routes/mocks.router.js";
-
+import logger from './logger.js';
+import { setupSwagger } from './swagger.js';
 
 dotenv.config();
 const app = express();
-const PORT = process.env.PORT||8080;
+
 mongoose.set('strictQuery', true);
 mongoose.connect(process.env.MONGO_URI)
 .then(() => console.log("Conexion exitosa, estamos conectados a la base de datos"))
@@ -26,4 +27,6 @@ app.use('/api/adoptions',adoptionsRouter);
 app.use('/api/sessions',sessionsRouter);
 app.use("/api/mocks", mockRouter);
 
-app.listen(PORT,()=>console.log(`Listening on ${PORT}`))
+
+setupSwagger(app)
+export default app;
