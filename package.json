@@ -22,11 +22,8 @@
     "mongoose": "^6.7.5",
     "multer": "^1.4.5-lts.1",
     "supertest": "^6.3.3",
-<<<<<<< HEAD
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
-=======
->>>>>>> 32de6f4b3b3bd0a33db9c3cf6db5c81960cd826c
     "winston": "^3.17.0"
   },
   "devDependencies": {
